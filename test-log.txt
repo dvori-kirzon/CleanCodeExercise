@@ -1,0 +1,60 @@
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
+Log started before all tests
+Before test: [1] Accessories, 2, 1
+After test: [1] Accessories, 2, 1
+Before test: [2] Accessories, 1, 2
+After test: [2] Accessories, 1, 2
+Log ended after all tests
